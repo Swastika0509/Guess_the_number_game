@@ -59,15 +59,3 @@ button:hover {
   font-size: 16px;
   margin-top: 14px;
 }
-
-/* Style for the "Submit Flag Here" link */
-a {
-  margin-top: 20px; /* Adds space above the link */
-  font-size: 24px;
-  color: #333;
-  text-decoration: none; /* Removes underline */
-}
-
-a:hover {
-  color: #007BFF; /* Adds hover color */
-}
